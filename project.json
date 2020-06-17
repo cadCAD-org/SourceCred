@@ -33,6 +33,10 @@
       {
         "name": "cadCAD",
         "owner": "BlockScience"
+      },
+      {
+        "name": "SourceCred",
+        "owner": "cadCAD-org"
       }
     ]
   }
