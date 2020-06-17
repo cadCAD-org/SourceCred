@@ -21,9 +21,6 @@
         ":cadcad:": 1
       }
     },
-    "initiatives": {
-      "remoteUrl": "https://github.com/cadcad-org/SourceCred/tree/master/initiatives"
-    },
     "discourseServer": {
       "serverUrl": "https://community.cadcad.org"
     },
