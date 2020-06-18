@@ -32,7 +32,7 @@ jobs:
           SOURCECRED_DISCORD_TOKEN: ${{ secrets.SOURCECRED_DISCORD_TOKEN }}
           SOURCECRED_INITIATIVES_DIRECTORY: ./initiatives
         with:
-          project: "@metagame"
+          project: "@cadcad"
           project-file: project.json
           weights: weights.json
           branch-against: master
