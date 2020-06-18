@@ -1,14 +1,14 @@
 {
-  "main.js": "static/js/main.be73e686.js",
-  "main.js.map": "static/js/main.be73e686.js.map",
-  "ssr.js": "static/js/ssr.9d3bcc3a.js",
-  "ssr.js.map": "static/js/ssr.9d3bcc3a.js.map",
+  "main.js": "static/js/main.9a35872f.js",
+  "main.js.map": "static/js/main.9a35872f.js.map",
+  "ssr.js": "static/js/ssr.f3abc5b2.js",
+  "ssr.js.map": "static/js/ssr.f3abc5b2.js.map",
   "discord-invite/index.html": "discord-invite/index.html",
   "favicon.png": "favicon.png",
   "index.html": "index.html",
-  "prototype/@metagame/index.html": "prototype/@metagame/index.html",
+  "prototype/@cadcad/index.html": "prototype/@cadcad/index.html",
   "prototype/index.html": "prototype/index.html",
   "test/FileUploader/index.html": "test/FileUploader/index.html",
   "test/TimelineCredView/index.html": "test/TimelineCredView/index.html",
-  "timeline/@metagame/index.html": "timeline/@metagame/index.html"
+  "timeline/@cadcad/index.html": "timeline/@cadcad/index.html"
 }
