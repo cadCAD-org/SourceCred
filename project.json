@@ -31,10 +31,14 @@
     "repoIds": [
       {
         "name": "cadCAD",
-        "owner": "BlockScience"
+        "owner": "cadCAD-org"
       },
       {
         "name": "SourceCred",
+        "owner": "cadCAD-org"
+      },
+      {
+        "name": "DynamicGamesSeminar",
         "owner": "cadCAD-org"
       }
     ]
