@@ -8,6 +8,9 @@
     "timelineCredParams": {
       "alpha": 0.3
     },
+    "discourseServer": {	
+      "serverUrl": "https://community.cadcad.org"	
+    },
     "identities": [
       { "username": "burrrata", "aliases": ["github/burrrata", "discourse/burrrata"]},
       { "username": "mZ", "aliases": ["github/mzargham", "discourse/mzargham"]}
