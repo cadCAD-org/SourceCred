@@ -34,7 +34,15 @@
         "owner": "cadCAD-org"
       },
       {
+        "name": "demos",
+        "owner": "cadCAD-org"
+      },
+      {
         "name": "DynamicGamesSeminar",
+        "owner": "cadCAD-org"
+      },
+      {
+        "name": "governance",
         "owner": "cadCAD-org"
       }
     ]
